@@ -245,7 +245,7 @@ int main()
 
 
 /* 
-vyresit proc se nepise mac a ip momentalne funguje vse ostatni udělat ukládání do souboru a nahrání souboru na github do repositáře
+vyresit proc se nepise mac a ip momentalne funguje vse ostatni udělat ukládání do souboru a nahrání souboru na github do repositáře nebo na c2 server
 
 dale budu muset udelat linux a macos 
 */
